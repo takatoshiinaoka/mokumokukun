@@ -1,6 +1,9 @@
 # mokumokukun（もくもく君）
 学生コミュニティ「TENGINEER福岡」のもくもく会通知Bot
 
+# 使用するもの
+- Google Apps Script
+
 # 使い方
 1. Google Apps Scriptにこのリポジトリのコードを貼り付ける。
 1. DiscordでウェブフックURLを取得する。(参考：[GASで簡単に作るDiscord Bot](https://qiita.com/iroha71/items/b2a473898d6c9b4b4ae7))
